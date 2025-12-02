@@ -8,3 +8,4 @@ def divide(a, b):
     if b == 0:
         raise ValueError("Делить на ноль нельзя!")
     return a / b
+
